@@ -1,1 +1,3 @@
 # Blind-75-LeetCode-Problems
+
+This Repo contain blind 75 problems with their solution . used language is JAVA.....
